@@ -1,0 +1,55 @@
+body {
+    background: #CFE5F9;
+    color: black;
+    width: auto;
+    height: auto;
+}
+
+
+.textBlock {
+    height: auto;
+    width: 31.2em;
+    background-color: white;
+    border: 1px solid blueviolet;
+    overflow: hidden;
+    margin: 0px 0px 0px 190px;
+    background: hsl(55, 57%, 95%);
+    color: #f8f4e6;
+}
+
+.textPlace {
+    margin:  0.9em 0 0 0em;
+    height: 30px;
+    width: 62em;
+    font-size: 1em;
+}
+
+.lvlTable {
+    margin: 10px 0px 0px 530px;
+}
+
+.speedPanel {
+    margin: 0px 0px 0px 495px;
+}
+
+ul.levelList li{
+    display: inline;
+}
+
+.levelList {
+    margin: 5px 0px 0px 455px;
+    overflow: hidden;
+}
+
+.prev {
+    margin: 0 0 0 170px;
+}
+
+.startBtn {
+    margin: 10px 0 0 600px;
+    display: inline-block;
+    border: 1px solid red;
+    padding: 10px;
+    cursor: pointer;
+}
+
